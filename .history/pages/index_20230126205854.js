@@ -25,6 +25,7 @@ export default function Home() {
       <main className={styles.main}>
         <Link className={styles.about} href="about">About Us</Link>
         <h1 className={styles.header}>Lina Columbia Institute of Technology</h1>
+        
         <h1 className={styles.programs}>Our Programs</h1>
 
         <div className={styles.cards}>

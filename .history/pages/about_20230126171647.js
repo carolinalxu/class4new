@@ -25,7 +25,7 @@ export default function About() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1 className={styles.header}>Lina Columbia Institute of Technology</h1>
+        <h1>Lina Columbia Institute of Technology</h1>
         <Link className={styles.about} href="/">Back Home</Link>
 
         <div className={styles.contents}>

@@ -25,8 +25,8 @@ export default function About() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1 className={styles.header}>Lina Columbia Institute of Technology</h1>
         <Link className={styles.about} href="/">Back Home</Link>
+        <h1 className={styles.header}>Lina Columbia Institute of Technology</h1>
 
         <div className={styles.contents}>
           <input className={styles.lcit} type="image" src="icon/lcit.png" alt="school"></input>
